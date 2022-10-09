@@ -1,6 +1,8 @@
 # Stable-Dreamfusion
 
-A pytorch implementation of the text-to-3D model **Dreamfusion**, powered by the [Stable Diffusion](https://github.com/CompVis/stable-diffusion) text-to-2D model.
+A pytorch implementation of the text-to-3D model **Dreamfusion**, powered by the [Stable Diffusion](https://g4ko3
+
+/CompVis/stable-diffusion) text-to-2D model.
 
 The original paper's project page: [_DreamFusion: Text-to-3D using 2D Diffusion_](https://dreamfusion3d.github.io/).
 
